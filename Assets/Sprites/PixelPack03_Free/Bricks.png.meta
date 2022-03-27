@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e1e1b01e4a48aa242848155e8092e75d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bricks_0
+  - first:
+      213: 21300002
+    second: Bricks_1
+  - first:
+      213: 21300004
+    second: Bricks_2
+  - first:
+      213: 21300006
+    second: Bricks_3
+  - first:
+      213: 21300008
+    second: Bricks_4
+  - first:
+      213: 21300010
+    second: Bricks_5
+  - first:
+      213: 21300012
+    second: Bricks_6
+  - first:
+      213: 21300014
+    second: Bricks_7
+  - first:
+      213: 21300016
+    second: Bricks_8
+  - first:
+      213: 21300018
+    second: Bricks_9
+  - first:
+      213: 21300020
+    second: Bricks_10
+  - first:
+      213: 21300022
+    second: Bricks_11
+  - first:
+      213: 21300024
+    second: Bricks_12
+  - first:
+      213: 21300026
+    second: Bricks_13
+  - first:
+      213: 21300028
+    second: Bricks_14
+  - first:
+      213: 21300030
+    second: Bricks_15
+  - first:
+      213: 21300032
+    second: Bricks_16
+  - first:
+      213: 21300034
+    second: Bricks_17
+  - first:
+      213: 21300036
+    second: Bricks_18
+  - first:
+      213: 21300038
+    second: Bricks_19
+  - first:
+      213: 21300040
+    second: Bricks_20
+  - first:
+      213: 21300042
+    second: Bricks_21
+  - first:
+      213: 21300044
+    second: Bricks_22
+  - first:
+      213: 21300046
+    second: Bricks_23
+  - first:
+      213: 21300048
+    second: Bricks_24
+  - first:
+      213: 21300050
+    second: Bricks_25
+  - first:
+      213: -5160660819957252609
+    second: Bricks_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bricks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdfb2c9356a168b0800000000000000
+      internalID: -5160660819957252609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c30ada48bd6f34f4d80883b8bb7c5c39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
